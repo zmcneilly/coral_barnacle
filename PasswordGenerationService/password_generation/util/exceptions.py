@@ -1,0 +1,2 @@
+class FourHundredError(Exception):
+    pass
