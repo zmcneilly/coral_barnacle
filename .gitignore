@@ -1,0 +1,25 @@
+# PasswordGenerationService
+# Distribution / packaging
+PasswordGenerationService/.Python
+PasswordGenerationService/env/
+PasswordGenerationService/build/
+PasswordGenerationService/develop-eggs/
+PasswordGenerationService/dist/
+PasswordGenerationService/downloads/
+PasswordGenerationService/eggs/
+PasswordGenerationService/.eggs/
+PasswordGenerationService/lib/
+PasswordGenerationService/lib64/
+PasswordGenerationService/parts/
+PasswordGenerationService/sdist/
+PasswordGenerationService/var/
+PasswordGenerationService/*.egg-info/
+PasswordGenerationService/.installed.cfg
+PasswordGenerationService/*.egg
+
+# Serverless directories
+PasswordGenerationService/.serverless/
+PasswordGenerationService/node_modules/
+
+# IDEA
+PasswordGenerationService/.idea/
