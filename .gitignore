@@ -22,5 +22,7 @@ PasswordGenerationService/.serverless/
 PasswordGenerationService/node_modules/
 
 # IDEA
+venv/
+.idea/
 PasswordGenerationService/.idea/
 PasswordGenerationService/venv/
